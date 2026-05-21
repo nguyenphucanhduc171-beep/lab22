@@ -1,0 +1,10 @@
+C:\Users\Sinhvien\source\repos\QLYOTO1\QLYOTO1\bin\Debug\QLYOTO1.exe.config
+C:\Users\Sinhvien\source\repos\QLYOTO1\QLYOTO1\bin\Debug\QLYOTO1.exe
+C:\Users\Sinhvien\source\repos\QLYOTO1\QLYOTO1\bin\Debug\QLYOTO1.pdb
+C:\Users\Sinhvien\source\repos\QLYOTO1\QLYOTO1\obj\Debug\QLYOTO1.csproj.AssemblyReference.cache
+C:\Users\Sinhvien\source\repos\QLYOTO1\QLYOTO1\obj\Debug\QLYOTO1.QLOTO.resources
+C:\Users\Sinhvien\source\repos\QLYOTO1\QLYOTO1\obj\Debug\QLYOTO1.Properties.Resources.resources
+C:\Users\Sinhvien\source\repos\QLYOTO1\QLYOTO1\obj\Debug\QLYOTO1.csproj.GenerateResource.cache
+C:\Users\Sinhvien\source\repos\QLYOTO1\QLYOTO1\obj\Debug\QLYOTO1.csproj.CoreCompileInputs.cache
+C:\Users\Sinhvien\source\repos\QLYOTO1\QLYOTO1\obj\Debug\QLYOTO1.exe
+C:\Users\Sinhvien\source\repos\QLYOTO1\QLYOTO1\obj\Debug\QLYOTO1.pdb
